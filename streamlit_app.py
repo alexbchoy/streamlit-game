@@ -1,7 +1,4 @@
-pip install --upgrade pip
-
 apt-get install libjpeg-dev zlib1g-dev
-pip3 install Pillow
 easy_install pillow
 sudo pip install -U setuptools
 
