@@ -1,5 +1,7 @@
+python -m pip install pip==19.3.1
+
 apt-get install libjpeg-dev zlib1g-dev
-easy_install pillow
+pip3 install Pillow
 sudo pip install -U setuptools
 
 import streamlit as st
