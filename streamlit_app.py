@@ -1,3 +1,7 @@
+apt-get install libjpeg-dev zlib1g-dev
+pip3 install Pillow
+sudo pip install -U setuptools
+
 import streamlit as st
 import streamlit.components.v1 as components
 from streamlit_extras.stoggle import stoggle
